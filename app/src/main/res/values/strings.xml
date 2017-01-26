@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lifecounter</string>
+    <string name="defLife">20</string>
+    <string name="name">Name</string>
+    <string name="_1">+</string>
+    <string name="_5">+5</string>
+    <string name="_1n">-</string>
+    <string name="_5n">-5</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_3">Player 3</string>
+    <string name="player_4">Player 4</string>
+    <string name="p1lose">Player 1 LOSES!</string>
+    <string name="p2lose">Player 2 LOSES!</string>
+    <string name="p3lose">Player 3 LOSES!</string>
+    <string name="p4lose">Player 4 LOSES!</string>
+</resources>
